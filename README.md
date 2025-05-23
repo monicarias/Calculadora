@@ -1,6 +1,6 @@
-<h1 align="center">BLOG del viajero</h1>
+<h1 align="center">Calculadora Python</h1>
 
-<p align="center">Un blog en html con estilos para documentar los mejores sitios turísticos</p>
+<p align="center">Descubriendo librearías de interfaz y motores de voz</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/licencia-MAC-green" alt="Licencia MAC">
@@ -11,7 +11,7 @@
 
 ## Índice
 1. [Introducción](#introducción)
-2. [Estructura del BLOG del viajero](#estructura-del-BLOG-del-viajero)
+2. [Estructura de la calculadora](#estructura-de-la-calculadora)
 3. [Visualización](#visualización)
 4. [Tecnologías Empleadas](#tecnologías-empleadas)
 5. [Codificación](#codificación)
@@ -22,7 +22,7 @@ Explora el mundo a través de mis ojos y acompáñame en esta travesía por dest
 Este blog ha sido creado con <em>HTML</em> y <em>CSS</em>, con un diseño limpio y responsive para que disfrutes del contenido desde cualquier dispositivo. Mi pasión por la aventura y la tecnología se fusionan aquí para ofrecerte una experiencia de lectura única y atractiva.
 ¡Prepara tu mochila, sigue mis rutas, y déjate inspirar para tu próxima escapada! ¡Nos vemos en el camino!
 
-## Estructura del BLOG del viajero
+## Estructura de la calculadora
 En esta sección se describe la estructura general del BLOG del viajero, incluyendo las diferentes secciones y su propósito. Por ejemplo:
 - **Header**: Contiene la información del autor y el botón de contacto para mayor información de los sitios turísticos.
 - **Título del blog**: Una sección donde se destaca el título del Blog para identificar el tipo de contenido.
